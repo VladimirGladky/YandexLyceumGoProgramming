@@ -1,8 +1,8 @@
 package main
 
 func main() {
-	//fmt.Println(SecondTask.ReadString(strings.NewReader("")))
-	//fmt.Println(SecondTask.ReadString(strings.NewReader("Hello, World!")))
+	//fmt.Println(second_task.ReadString(strings.NewReader("")))
+	//fmt.Println(second_task.ReadString(strings.NewReader("Hello, World!")))
 	//upper := UpperWriter{
 	//	UpperString: "any",
 	//}
