@@ -6,143 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a3b075f-e762-4320-aa21-f31e32e89f47" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/CalcApplication/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/calc_application/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/CalcApplication/rpn/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/calc_application/rpn/cmd/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/CalcApplication/rpn/internal/application/application.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/calc_application/rpn/internal/application/application.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/CalcApplication/rpn/pkg/rpn/rpn.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/calc_application/rpn/pkg/rpn/rpn.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/CalcApplication/rpn/pkg/rpn/rpn_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/calc_application/rpn/pkg/rpn/rpn_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/.idea/Tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/.idea/Tasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/config.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/main" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/Tasks/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/tasks/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/1lab/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/1lab/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FifthTask/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fifth_task/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FifthTask/.idea/FifthTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fifth_task/.idea/FifthTask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FifthTask/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fifth_task/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FifthTask/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fifth_task/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FifthTask/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fifth_task/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FifthTask/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fifth_task/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FirstTask/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/first_task/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FirstTask/.idea/2lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/first_task/.idea/2lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FirstTask/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/first_task/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FirstTask/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/first_task/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FirstTask/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/first_task/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FirstTask/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/first_task/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FourthTask/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fourth_task/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FourthTask/.idea/FourthTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fourth_task/.idea/FourthTask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FourthTask/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fourth_task/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FourthTask/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fourth_task/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FourthTask/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fourth_task/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/FourthTask/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/fourth_task/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/SecondTask/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/second_task/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/SecondTask/.idea/SecondTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/second_task/.idea/SecondTask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/SecondTask/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/second_task/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/SecondTask/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/second_task/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/SecondTask/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/second_task/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/SecondTask/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/second_task/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/third_task/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask/.idea/ThirdTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/third_task/.idea/ThirdTask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/third_task/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/third_task/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/third_task/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/2lab/third_task/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/.idea/3lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/.idea/3lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/FirstTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/first_task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/FivthTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/fifth_task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/FourthTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/fourth_task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/SecondTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/second_task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/ThirdTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/third_task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstSprint/3lab/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/firstSprint/3lab/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/FinalTask/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/FinalTask/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/FinalTask/.idea/FinalTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/FinalTask/.idea/FinalTask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/FinalTask/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/FinalTask/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/FinalTask/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/FinalTask/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/FinalTask/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/FinalTask/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/FinalTask/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/FinalTask/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab10(structs)/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab10(structs)/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab10(structs)/.idea/lab10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab10(structs)/.idea/lab10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab10(structs)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab10(structs)/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab10(structs)/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab10(structs)/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab10(structs)/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab10(structs)/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab11(interfaces)/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab11(interfaces)/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab11(interfaces)/.idea/lab11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab11(interfaces)/.idea/lab11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab11(interfaces)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab11(interfaces)/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab11(interfaces)/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab11(interfaces)/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab11(interfaces)/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab11(interfaces)/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab11(interfaces)/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab11(interfaces)/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab12/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab12/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab12/.idea/lab12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab12/.idea/lab12.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab12/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab12/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab12/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab12/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab12/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab12/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab12/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab12/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab13/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab13/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab13/.idea/lab13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab13/.idea/lab13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab13/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab13/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab13/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab13/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab13/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab13/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab13/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab13/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/.idea/lab14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/.idea/lab14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab14/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab14/main_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab3/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab3/.idea/IFELSE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab3/.idea/IFELSE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab3/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab3/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab4/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab4/.idea/CYCLES.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab4/.idea/CYCLES.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab4/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab4/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab4/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab5/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab5/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab5/.idea/FUNCTIONS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab5/.idea/FUNCTIONS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab5/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab5/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab5/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab5/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab6/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab6/.idea/ARRAYS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab6/.idea/ARRAYS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab6/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab6/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab6/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab6/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab6/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab7/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab7/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab7/.idea/awesomeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab7/.idea/awesomeProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab7/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab7/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab7/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab7/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab7/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab8(strings)/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab8(strings)/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab8(strings)/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab8(strings)/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab8(strings)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab8(strings)/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab8(strings)/.idea/strings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab8(strings)/.idea/strings.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab8(strings)/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab8(strings)/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab8(strings)/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab8(strings)/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab9(maps)/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab9(maps)/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab9(maps)/.idea/lab9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab9(maps)/.idea/lab9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab9(maps)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab9(maps)/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab9(maps)/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab9(maps)/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/lab9(maps)/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/lab9(maps)/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/.idea/printer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/.idea/printer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/internal/counter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/internal/counter/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/internal/counter/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/internal/counter/main_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroSprint/printer/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/zero_sprint/printer/main_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +52,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultGoTemplateProperty": "Go File",
     "Go Build.go build 4lab.executor": "Run",
+    "Go Build.go build 5lab.executor": "Debug",
     "Go Build.go build FirstTask.executor": "Run",
     "Go Build.go build SecondTask.executor": "Run",
     "Go Build.go build Yandex.executor": "Run",
@@ -219,7 +83,7 @@
       <recent name="C:\Users\Владимир\GolandProjects\Yandex\FirstSprint\2lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 4lab">
+  <component name="RunManager" selected="Go Build.go build 5lab">
     <configuration name="go build 4lab" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Yandex" />
       <working_directory value="$PROJECT_DIR$/firstSprint/4lab" />
@@ -229,21 +93,12 @@
       <filePath value="$PROJECT_DIR$/firstSprint/4lab/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build SecondTask" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 5lab" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Yandex" />
-      <working_directory value="$PROJECT_DIR$/FirstSprint/2lab/SecondTask" />
+      <working_directory value="$PROJECT_DIR$/firstSprint/5lab" />
       <kind value="PACKAGE" />
-      <package value="SecondTask" />
+      <package value="5lab" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/FirstSprint/2lab/SecondTask/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Yandex" />
-      <working_directory value="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/FirstSprint/2lab/ThirdTask/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -262,13 +117,21 @@
       <filePath value="$PROJECT_DIR$/FirstSprint/2lab/FifthTask/main.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Yandex" />
+      <working_directory value="$PROJECT_DIR$/firstSprint/5lab" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/firstSprint/5lab/main.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 5lab" />
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build 4lab" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
-        <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build SecondTask" />
       </list>
     </recent_temporary>
   </component>
