@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a3b075f-e762-4320-aa21-f31e32e89f47" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "DefaultGoTemplateProperty": "Go File",
     "Go Build.go build 4lab.executor": "Run",
     "Go Build.go build 5lab.executor": "Debug",
+    "Go Build.go build 6lab.executor": "Run",
     "Go Build.go build FirstTask.executor": "Run",
     "Go Build.go build SecondTask.executor": "Run",
     "Go Build.go build Yandex.executor": "Run",
@@ -83,7 +85,7 @@
       <recent name="C:\Users\Владимир\GolandProjects\Yandex\FirstSprint\2lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 5lab">
+  <component name="RunManager" selected="Go Build.go build 6lab">
     <configuration name="go build 4lab" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Yandex" />
       <working_directory value="$PROJECT_DIR$/firstSprint/4lab" />
@@ -101,12 +103,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 6lab" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Yandex" />
-      <working_directory value="$PROJECT_DIR$/FirstSprint/2lab/FourthTask" />
-      <kind value="FILE" />
+      <working_directory value="$PROJECT_DIR$/firstSprint/7lab" />
+      <kind value="PACKAGE" />
+      <package value="6lab" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/FirstSprint/2lab/FourthTask/main.go" />
+      <filePath value="$PROJECT_DIR$/firstSprint/7lab/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 6lab" />
         <item itemvalue="Go Build.go build 5lab" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build 4lab" />
         <item itemvalue="Go Build.go build main.go (3)" />
-        <item itemvalue="Go Build.go build main.go (2)" />
       </list>
     </recent_temporary>
   </component>
