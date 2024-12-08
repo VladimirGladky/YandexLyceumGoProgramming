@@ -18,4 +18,5 @@
 1.3. IO reader writer <br />
 1.4. Работа с файлами <br />
 1.5. Работа с JSON <br />
-1.7. HTTP сервер. Пишем код на Go
+1.7. HTTP сервер. Пишем код на Go<br />
+1.8. HTTP сервер. Middlewares
