@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a3b075f-e762-4320-aa21-f31e32e89f47" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,8 @@
     "Go Build.go build main.go.executor": "Run",
     "Go Test.TestCalc in github.com/VladimirGladky/rpn/rpn/pkg/rpn.executor": "Run",
     "Go Test.TestCalc/wrong in github.com/VladimirGladky/rpn/rpn/pkg/rpn.executor": "Run",
+    "Go Test.TestRequestHandlerBadRequestCase in 9lab.executor": "Run",
+    "Go Test.TestRequestHandlerSuccessCase in 9lab.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
@@ -85,15 +88,7 @@
       <recent name="C:\Users\Владимир\GolandProjects\Yandex\FirstSprint\2lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 8lab/">
-    <configuration name="go build 5lab" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Yandex" />
-      <working_directory value="$PROJECT_DIR$/firstSprint/5lab" />
-      <kind value="PACKAGE" />
-      <package value="5lab" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestRequestHandlerSuccessCase in 9lab">
     <configuration name="go build 6lab" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Yandex" />
       <working_directory value="$PROJECT_DIR$/firstSprint/7lab" />
@@ -118,21 +113,35 @@
       <filePath value="$PROJECT_DIR$/firstSprint/8lab/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRequestHandlerBadRequestCase in 9lab" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Yandex" />
-      <working_directory value="$PROJECT_DIR$/firstSprint/5lab" />
-      <kind value="FILE" />
+      <working_directory value="$PROJECT_DIR$/firstSprint/9lab" />
+      <kind value="PACKAGE" />
+      <package value="9lab" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/firstSprint/5lab/main.go" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestRequestHandlerBadRequestCase\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRequestHandlerSuccessCase in 9lab" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Yandex" />
+      <working_directory value="$PROJECT_DIR$/firstSprint/9lab" />
+      <kind value="PACKAGE" />
+      <package value="9lab" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestRequestHandlerSuccessCase\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestRequestHandlerSuccessCase in 9lab" />
+        <item itemvalue="Go Test.TestRequestHandlerBadRequestCase in 9lab" />
         <item itemvalue="Go Build.go build 8lab/" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build 6lab" />
-        <item itemvalue="Go Build.go build 5lab" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
