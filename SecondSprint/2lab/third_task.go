@@ -1,30 +1,15 @@
 package main
 
-import "sync"
+func Send1(ch1, ch2 chan int) {
+	go func() {
+		ch1 <- 0
+		ch1 <- 1
+		ch1 <- 2
+	}()
 
-type Queue interface {
-	Enqueue(element interface{}) // положить элемент в очередь
-	Dequeue() interface{}        // забрать первый элемент из очереди
-}
-
-type ConcurrentQueue struct {
-	queue []interface{} // здесь хранить элементы очереди
-	mutex sync.Mutex
-}
-
-func (c *ConcurrentQueue) Enqueue(element interface{}) {
-	c.mutex.Lock()
-	c.queue = append(c.queue, element)
-	c.mutex.Unlock()
-}
-
-func (c *ConcurrentQueue) Dequeue() interface{} {
-	c.mutex.Lock()
-	defer c.mutex.Unlock()
-	if len(c.queue) == 0 {
-		return nil
-	}
-	elem := c.queue[0]
-	c.queue = c.queue[1:]
-	return elem
+	go func() {
+		ch2 <- 0
+		ch2 <- 1
+		ch2 <- 2
+	}()
 }
