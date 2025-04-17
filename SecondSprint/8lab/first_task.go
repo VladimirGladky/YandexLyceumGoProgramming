@@ -18,6 +18,7 @@ func TestSortIntegers(t *testing.T) {
 	for _, tc := range cases {
 		tc := tc
 		t.Run(tc.name, func(t *testing.T) {
+			t.Parallel()
 			SortIntegers(tc.start)
 			for i := 0; i < len(tc.start); i++ {
 				if tc.start[i] != tc.want[i] {
